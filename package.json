@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/Tencent/rapidjson.git"
   },
-  "author": "",
+  "author": "LH",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Tencent/rapidjson/issues"
